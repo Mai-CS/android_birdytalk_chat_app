@@ -6,7 +6,7 @@ Chat application supported by End-to-End encryption developed with Signal Protoc
 <img src="https://image.ibb.co/gKoTn8/2.png" width="50%" height="50%"/><br>
 
 # Video
-https://youtu.be/zaeixHvksDA
+https://youtu.be/_EKJcAc6Cd4
 
 # Tools & Technologies
 <a href="https://github.com/signalapp/libsignal-protocol-java">- Signal protocol library for Java</a>
